@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/04-stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-queue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06-sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-skiplist" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
